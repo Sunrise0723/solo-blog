@@ -10,7 +10,7 @@ jinxiaofei 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://117.50.98.155:8080/hello-solo)
+* [世界，你好！](https://www.snoozed.cn/hello-solo)
 
 
 
