@@ -1,5 +1,5 @@
 <p align="center"><img alt="jinxiaofei 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-jinxiaofei 的个人博客
+个人博客
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
